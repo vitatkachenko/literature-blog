@@ -1,0 +1,35 @@
+body {
+	background: $color-main-background;
+	margin: 0;
+}
+
+.clearfix:after {
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+    visibility: hidden;
+}
+
+.container {
+    width: 900px;
+    margin: 30px auto;
+    min-height: 50px;
+}
+
+.w67 {
+    width: 67%;
+    height: 100%;
+    margin-right: 15px;
+    float: left;
+}
+
+.w25 {
+    width: 25%;
+    height: 100%;
+    float: right;
+}
+
+hr {
+    border-color: $color-red;
+}
