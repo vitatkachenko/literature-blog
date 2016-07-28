@@ -1,0 +1,21 @@
+{
+  "name": "literature_blog",
+  "homepage": "https://github.com/vitatkachenko/literature-blog",
+  "authors": [
+    "Vita Tkachenko <vita.tkachenko19@gmail.com>"
+  ],
+  "dependencies": {
+    "fontawesome": "latest"
+  },
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
